@@ -1,1 +1,0 @@
-# Review key concepts in calculus, set theory, and linear algebra
